@@ -9,3 +9,6 @@ Contains articles written on different topics.
 
 3. Intoduction to CSS Box Model
    - https://imbeshat.hashnode.dev/introduction-to-css-box-model
+
+4. Flexbox and it's properties.
+   - https://imbeshat.hashnode.dev/flexbox-and-its-properties
