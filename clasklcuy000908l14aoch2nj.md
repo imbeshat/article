@@ -82,6 +82,7 @@ only
 ,
 ``` (comma): It is used to combine multiple media queries into a single rule.
 
+### Example: 
 Have a look at this example:
 
 Width more than 1000px
@@ -94,7 +95,9 @@ Width less than 700px
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1669142577660/XAphfDsA4.png align="left")
 
 Please take a look at the source code of the above attached screen shots.
-[https://github.com/imbeshat/Javascript-Bootcamp-CSS/blob/master/32mediaQueryCSS.html](Link)
+%[https://github.com/imbeshat/Javascript-Bootcamp-CSS/blob/master/32mediaQueryCSS.html
+
+Thanks for reading. Happy Learning!!
 
 
 
