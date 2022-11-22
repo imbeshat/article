@@ -82,7 +82,7 @@ only
 ,
 ``` (comma): It is used to combine multiple media queries into a single rule.
 
-### Example: 
+### Example
 Have a look at this example:
 
 Width more than 1000px
