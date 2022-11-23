@@ -18,3 +18,6 @@ Contains articles written on different topics.
    
 6. CSS Media Queries
    - https://imbeshat.hashnode.dev/css-media-queries
+   
+7. Grid in CSS
+   - https://imbeshat.hashnode.dev/grid-in-css
