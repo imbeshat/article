@@ -46,9 +46,7 @@ number
 ```: A control for entering a number. Id displays a spinner and adds default validation.
 - ```
 password
-```: A single-line text field whose value is obscured. " ```
-*
-``` " is displayed for every character which we type. It will alert user if the site is not secure.
+```: A single-line text field whose value is obscured. " * " is displayed for every character which we type. It will alert user if the site is not secure.
 - ```
 radio
 ```: It displays a radio button which allows to select a single value out of multiple values with the same name value.
