@@ -95,9 +95,10 @@ Width less than 700px
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1669142577660/XAphfDsA4.png align="left")
 
 Please take a look at the source code of the above attached screen shots.
-%[https://github.com/imbeshat/Javascript-Bootcamp-CSS/blob/master/32mediaQueryCSS.html
 
-Thanks for reading. Happy Learning!!
+[Source Code](https://github.com/imbeshat/Javascript-Bootcamp-CSS/blob/master/32mediaQueryCSS.html)
+
+Thanks for reading. Happy Learning 🙂
 
 
 
