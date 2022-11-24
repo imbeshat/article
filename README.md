@@ -21,3 +21,6 @@ Contains articles written on different topics.
    
 7. Grid in CSS
    - https://imbeshat.hashnode.dev/grid-in-css
+
+8. Input Elements in HTML
+   - https://imbeshat.hashnode.dev/input-elements-in-html
