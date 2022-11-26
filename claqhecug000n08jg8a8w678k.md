@@ -1,4 +1,4 @@
-# Flexbox and it's properties.
+# Flexbox and it's properties
 
 ## What is flexbox?
 **Flexbox (Flexible Box Module)** is a one-dimensional layout method for arranging items in rows or columns.
