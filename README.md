@@ -1,16 +1,16 @@
 # Article
-Contains articles written on different topics.
+### Contains articles written on different topics.
 
-1. Intriduction to Web and HTML.
+1. Introduction to Web and HTML
    - https://imbeshat.hashnode.dev/introduction-to-web-and-html
    
-2. CSS Selectors.
+2. CSS Selectors
    - https://imbeshat.hashnode.dev/css-selectors
 
 3. Intoduction to CSS Box Model
    - https://imbeshat.hashnode.dev/introduction-to-css-box-model
 
-4. Flexbox and it's properties.
+4. Flexbox and it's properties
    - https://imbeshat.hashnode.dev/flexbox-and-its-properties
 
 5. Positions in CSS
@@ -31,3 +31,5 @@ Contains articles written on different topics.
 11. Array Methods in JavaScript
       - https://imbeshat.hashnode.dev/array-methods-in-javascript
  
+12. Objects & Working with Objects in JavaScript
+      - https://imbeshat.hashnode.dev/objects-working-with-objects-in-javascript
