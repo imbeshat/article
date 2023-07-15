@@ -17,7 +17,7 @@
    - [Positions in CSS](https://imbeshat.hashnode.dev/positions-in-css)
    
 6. CSS Media Queries
-   - https://imbeshat.hashnode.dev/css-media-queries
+   - [CSS Media Queries](https://imbeshat.hashnode.dev/css-media-queries)
    
 7. Grid in CSS
    - https://imbeshat.hashnode.dev/grid-in-css
