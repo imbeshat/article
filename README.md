@@ -20,7 +20,7 @@
    - [CSS Media Queries](https://imbeshat.hashnode.dev/css-media-queries)
    
 7. Grid in CSS
-   - https://imbeshat.hashnode.dev/grid-in-css
+   - [Grid in CSS](https://imbeshat.hashnode.dev/grid-in-css)
 
 8. Input Elements in HTML
    - https://imbeshat.hashnode.dev/input-elements-in-html
