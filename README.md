@@ -25,8 +25,8 @@
 8. Input Elements in HTML
    - [Input Elements in HTML](https://imbeshat.hashnode.dev/input-elements-in-html)
 
-9. audio and video tag in HTML
-      - https://imbeshat.hashnode.dev/audio-and-video-tag
+9. Audio and Video tags in HTML
+      - [Audio and Video tags in HTML](https://imbeshat.hashnode.dev/audio-and-video-tag)
    
 11. Array Methods in JavaScript
       - https://imbeshat.hashnode.dev/array-methods-in-javascript
