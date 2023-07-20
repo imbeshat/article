@@ -29,7 +29,7 @@
       - [Audio and Video tags in HTML](https://imbeshat.hashnode.dev/audio-and-video-tag)
    
 11. Array Methods in JavaScript
-      - https://imbeshat.hashnode.dev/array-methods-in-javascript
+      - [Array Methods in JavaScript](https://imbeshat.hashnode.dev/array-methods-in-javascript)
  
 12. Objects & Working with Objects in JavaScript
       - https://imbeshat.hashnode.dev/objects-working-with-objects-in-javascript
