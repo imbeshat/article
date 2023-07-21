@@ -32,7 +32,7 @@
       - [Array Methods in JavaScript](https://imbeshat.hashnode.dev/array-methods-in-javascript)
  
 12. Objects & Working with Objects in JavaScript
-      - https://imbeshat.hashnode.dev/objects-working-with-objects-in-javascript
+      - [Objects & Working with Objects in JavaScript](https://imbeshat.hashnode.dev/objects-working-with-objects-in-javascript)
       
 13. Prototype and Prototype chaining in JavaScript
       - https://imbeshat.hashnode.dev/prototype-and-prototype-chaining-in-javascript
