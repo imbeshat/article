@@ -35,7 +35,7 @@
       - [Objects & Working with Objects in JavaScript](https://imbeshat.hashnode.dev/objects-working-with-objects-in-javascript)
       
 13. Prototype and Prototype chaining in JavaScript
-      - https://imbeshat.hashnode.dev/prototype-and-prototype-chaining-in-javascript
+      - [Prototype and Prototype chaining in JavaScript](https://imbeshat.hashnode.dev/prototype-and-prototype-chaining-in-javascript)
 
 14. How Do You Rotate Text in CSS?
       - https://www.turing.com/kb/how-to-rotate-text-in-css#how-to-rotate-text-in-css
